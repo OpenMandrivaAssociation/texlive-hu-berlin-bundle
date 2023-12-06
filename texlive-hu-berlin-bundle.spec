@@ -1,6 +1,6 @@
 Name:		texlive-hu-berlin-bundle
-Version:	57580
-Release:	2
+Version:	67128
+Release:	1
 Summary:	LaTeX classes for the Humboldt-Universitat zu Berlin
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hu-berlin-bundle
