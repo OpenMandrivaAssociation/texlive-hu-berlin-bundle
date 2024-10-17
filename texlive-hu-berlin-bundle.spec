@@ -3,7 +3,7 @@ Version:	67128
 Release:	1
 Summary:	LaTeX classes for the Humboldt-Universitat zu Berlin
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hu-berlin-bundle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hu-berlin-bundle
 License:	lppl1.3c gpl2 bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hu-berlin-bundle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hu-berlin-bundle.doc.r%{version}.tar.xz
